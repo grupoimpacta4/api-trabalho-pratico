@@ -2,11 +2,11 @@
 
 
 # GRUPO D
-Andrade Alves Sampaio
-David Stefano Aranda da Silva
-Irai Fernandes Daniele
-Marília Gabriela Pires Matos
-Paolo Angelo Martins
+Andrade Alves Sampaio <br/>
+David Stefano Aranda da Silva <br/>
+Irai Fernandes Daniele <br/>
+Marília Gabriela Pires Matos <br/>
+Paolo Angelo Martins <br/> <br/>
 
 
 
